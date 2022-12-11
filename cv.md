@@ -1,4 +1,4 @@
-1. *Aleksei Uzvarau*
+1. _*Aleksei Uzvarau*_
 2. *Mail: aleks0231@inbox.ru*
 3. *I'm 23 years old*
 *Goal:* be programmer
